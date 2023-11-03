@@ -1,6 +1,11 @@
 # theEye
 theEye es una herramienta que extrae informacion de facebook haciendo uso de tecnicas de scrapping.
 
+## Requisitos
+- Python 3.x
+- ejecutar ```pip install -r requirements.txt ```
+
+## Uso
 Ofrece dos posibilidades de uso. 
 - Si unicamente especificas un usuario y password, se intentará descargar la informacion de tus amigos.
 - Si además especificas una cadena de busqueda, intentará descargar la informacion de los usuarios que
